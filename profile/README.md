@@ -15,6 +15,7 @@
 ## 사용 기술 및 환경
 - Back-end : Spring boot, Gradle, JPA, Java17
 - Front-end : Flutter
+- AI: Python, PyTorch-lightning
 - Other : Notion, Figma
 <br>
 
