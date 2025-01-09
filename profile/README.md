@@ -31,3 +31,5 @@
 ![erd](https://github.com/user-attachments/assets/f77087d9-097c-486f-9372-885e44e4f03d)
 
 ## 경진대회 은상
+
+## KIEE 학회지에 게재
